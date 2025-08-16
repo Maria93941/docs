@@ -1,4 +1,5 @@
----
+content/get-started/start-your-journey/index.md
+--
 title: Understanding GitHub Code Search syntax
 shortTitle: Code search syntax
 intro: 'You can build search queries for the results you want with specialized code qualifiers, regular expressions, and boolean operations.'
@@ -9,7 +10,9 @@ topics:
   - GitHub search
 ---
 
-## About code search query structure
+## About code search query structurecontent/get-started/start-your-journey/index.md
+
+
 
 The search syntax in this article only applies to searching code with {% data variables.product.prodname_dotcom %} code search. {% data reusables.search.non-code-search-explanation %}
 
